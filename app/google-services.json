@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "651494825333",
+    "firebase_url": "https://signuplogin-6c1e3.firebaseio.com",
+    "project_id": "signuplogin-6c1e3",
+    "storage_bucket": "signuplogin-6c1e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651494825333:android:b0cd0e0b628c5a5b",
+        "android_client_info": {
+          "package_name": "com.FireTrash.SignUpLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651494825333-6p0o55kob8evdccjhlbfhf0qjohul1uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FireTrash.SignUpLogin",
+            "certificate_hash": "293f60864d0a3b841364ee0503f938eb5fd0a151"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-9C3ujos6r9CU_Il_4cOjB1Q2yNBl3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651494825333-hcmij2a1cm4f13kptdrvqklub58hba99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
